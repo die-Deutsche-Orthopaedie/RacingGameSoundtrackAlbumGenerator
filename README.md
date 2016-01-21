@@ -7,8 +7,8 @@ gimmie a game title, the script will generate a rar file containin' almost ALL i
 
 需要安装如下依赖项：
 
-	-youtube-dl（别用yum/apt下，那里的版本太激霸老了，直接上[官网](http://yt-dl.org/latest/)搞一个可执行文件放/usr/bin）
-	-html2text（这个可以yum/apt）
-	-HTML-XML-utils（这玩意™还需要编译安装，[官网](https://www.w3.org/Tools/HTML-XML-utils/)在这儿，是我试了一大堆HTML parsers里面唯一能用的）
+-youtube-dl（别用yum/apt下，那里的版本太激霸老了，直接上[官网](http://yt-dl.org/latest/)搞一个可执行文件放/usr/bin）
+-html2text（这个可以yum/apt）
+-HTML-XML-utils（这玩意™还需要编译安装，[官网](https://www.w3.org/Tools/HTML-XML-utils/)在这儿，是我试了一大堆HTML parsers里面唯一能用的）
 
-祝dubstep愉快，改日写个拖javfor.me的（手动滑稽）
+祝dubstep愉快，改日写个拖javfor.me的😂（手动滑稽）
